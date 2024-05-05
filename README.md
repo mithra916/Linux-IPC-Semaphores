@@ -27,15 +27,14 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 $ ./sem.o 
+
 ![Screenshot from 2024-05-05 15-53-36](https://github.com/mithra916/Linux-IPC-Semaphores/assets/149986612/f9add0f3-4ce1-4f98-a27d-b97dfba17e36)
+
 ![Screenshot from 2024-05-05 15-55-22](https://github.com/mithra916/Linux-IPC-Semaphores/assets/149986612/9e143f77-e7e7-451c-8b4d-e905fa42fff4)
 
 $ ipcs
 
 ![Screenshot from 2024-05-05 15-55-42](https://github.com/mithra916/Linux-IPC-Semaphores/assets/149986612/e7a8b8ed-c75e-49cf-bfef-e7c6472d78b9)
-
-
-
 
 # RESULT:
 The program is executed successfully.
