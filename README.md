@@ -1,5 +1,7 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
+# Developed by:LOGA MITHRA.R
+# Register number:212223100027
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 # DESIGN STEPS:
